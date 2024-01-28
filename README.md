@@ -11,4 +11,4 @@ Este repositorio contiene la muestra de datos utilizada principalmente para prá
 
 Portafolio: https://rubenapa.github.io/Home-S.html
 
-Puedes revisar los datos en bruto y limpios, así como los cuadernos de Databricks que creé en formato HTML.
+Puedes revisar los datos sucios y limpios, así como los databricks notebooks que creé en formato HTML.
