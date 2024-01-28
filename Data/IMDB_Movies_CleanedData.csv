@@ -1,0 +1,268 @@
+IMDB_title_ID,Original_title,Release_Year,Duration,Country,Content_Rating,Income,Votes,Score,Genre,Director
+111161,The Shawshank Redemption,2/10/1995,142,USA,R,28815245,2278845,9.3,Drama,Frank Darabont
+68646,The Godfather,9/21/1972,175,USA,R,246120974,1572674,9.2,Crime,Francis Ford Coppola
+468569,The Dark Knight,7/23/2008,152,USA,PG-13,1005455211,2241615,9,Action,Christopher Nolan
+71562,The Godfather: Part II,9/25/1975,220,USA,R,408035783,1098714,9,Crime,Francis Ford Coppola
+110912,Pulp Fiction,10/28/1994,,USA,R,222831817,1780147,8.9,Crime,Quentin Tarantino
+167260,The Lord of the Rings: The Return of the King,2/22/2004,201,New Zealand,PG-13,1142271098,1604280,8.9,Action,Peter Jackson
+108052,Schindler's List,3/11/1994,,USA,R,322287794,1183248,8.9,Biography,Steven Spielberg
+50083,12 Angry Men,9/4/1957,96,USA,Not Rated,576,668473,8.9,Crime,Sidney Lumet
+1375666,Inception,9/24/2010,148,USA,PG-13,869784991,2002816,8.8,Action,Christopher Nolan
+137523,Fight Club,10/29/1999,,UK,R,101218804,1807440,8.8,Drama,David Fincher
+109830,Forrest Gump,10/6/1994,142,USA,PG-13,678229452,1755490,8.8,Drama,Robert Zemeckis
+120737,The Lord of the Rings: The Fellowship of the Ring,1/18/2002,178,New Zealand,PG-13,887934303,1619920,8.8,Action,Peter Jackson
+60196,"Il buono, il brutto, il cattivo",12/23/1966,161,Italy,NC-17,25252481,672499,8.8,Western,Sergio Leone
+133093,The Matrix,5/7/1999,,USA,R,465718588,1632315,8.7,Action,Lana Wachowski
+167261,The Lord of the Rings: The Two Towers,1/16/2003,179,New Zealand,PG-13,951227416,1449778,8.7,Action,Peter Jackson
+80684,Star Wars: Episode V - The Empire Strikes Back,9/19/1980,,USA,PG,549265501,1132073,8.7,Action,Irvin Kershner
+99685,Goodfellas,9/20/1990,146,USA,R,46879633,991505,8.7,Biography,Martin Scorsese
+73486,One Flew Over the Cuckoo's Nest,11/18/1976,,USA,R,108997629,891071,8.7,Drama,Milos Forman
+816692,Interstellar,11/6/2014,169,USA,PG-13,696742056,1449256,8.6,Adventure,Christopher Nolan
+114369,Se7en,12/15/1995,127,USA,R,327333559,1402015,8.6,Crime,David Fincher
+102926,The Silence of the Lambs,3/5/1991,118,USA,R,272753884,1234134,8.6,Crime,Jonathan Demme
+76759,Star Wars,10/20/1977,121,USA,PG,775768912,1204107,8.6,Action,George Lucas
+120815,Saving Private Ryan,10/30/1998,169,USA,R,482349603,1203825,8.6,Drama,Steven Spielberg
+120689,The Green Mile,10/3/2000,189,USA,R,286801374,1112336,8.6,Crime,Frank Darabont
+317248,Cidade de Deus,5/9/2003,130,Brazil,R,30680793,685856,8.6,Crime,Fernando Meirelles
+245429,Sen to Chihiro no kamikakushi,4/18/2003,125,Japan,PG,355467056,626693,8.6,Animation,Hayao Miyazaki
+118799,La vita B9 bella,12/20/1997,116,Italy,Not Rated,230098753,605648,8.6,Comedy,Roberto Benigni
+6751668,Gisaengchung,11/7/2019,132,South Korea,Not Rated,257604912,470931,8.6,Comedy,Bong Joon Ho
+38650,It's a Wonderful Life,3/11/1948,130,USA,PG,6130720,388310,8.6,Drama,Frank Capra
+47478,Shichinin no samurai,8/19/1955,207,Japan,Not Rated,322773,307958,8.6,Action,Akira Kurosawa
+172495,Gladiator,5/19/2000,155,USA,R,465361176,1308193,8.5,Action,Ridley Scott
+407887,The Departed,10/27/2006,151,USA,R,291465034,1159703,8.5,Crime,Martin Scorsese
+482571,The Prestige,12/22/2006,130,UK,PG-13,109676311,1155723,8.5,Drama,Christopher Nolan
+88763,Back to the Future,10/18/1985,116,USA,PG,388774684,1027330,8.5,Adventure,Robert Zemeckis
+120586,American History X,8/27/1999,119,USA,R,23875127,1014218,8.5,Drama,Tony Kaye
+110413,Léon,4/7/1995,110,France,Not Rated,19552639,1007598,8.5,Action,Luc Besson
+103064,Terminator 2: Judgment Day,12/19/1991,137,USA,R,520884847,974970,8.4,Action,James Cameron
+114814,The Usual Suspects,11/30/1995,106,USA,R,23341568,968947,8.4,Crime,Bryan Singer
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Animation,Roger Allers
+7286456,Joker,10/3/2019,122,USA,Not Rated,1074251311,855097,8.4,Crime,Todd Phillips
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Biography,Olivier Nakache
+253474,The Pianist,10/25/2002,150,UK,R,120072577,707942,8.4,Biography,Roman Polanski
+2582802,Whiplash,2/12/2015,106,USA,R,48983260,690732,8.4,Drama,Damien Chazelle
+54215,Psycho,10/28/1960,109,USA,R,32008644,586765,8.3,Horror,Alfred Hitchcock
+34583,Casablanca,11/21/1946,102,USA,PG,4374761,509953,8.3,Drama,Michael Curtiz
+64116,C'era una volta il West,12/21/1968,165,Italy,PG-13,112911,295220,8.3,Western,Sergio Leone
+95327,Hotaru no haka,10/11/2015,89,Japan,Not Rated,516962,225438,8.3,Animation,Isao Takahata
+95765,Nuovo Cinema Paradiso,11/17/1988,155,Italy,Not Rated,13826605,223050,8.3,Drama,Giuseppe Tornatore
+27977,Modern Times,3/12/1937,87,USA,G,457688,211250,8.3,Comedy,Charles Chaplin
+1345836,The Dark Knight Rises,8/29/2012,164,UK,PG-13,1081133191,1480582,8.3,Action,Christopher Nolan
+1853728,Django Unchained,1/17/2013,165,USA,R,425368238,1317856,8.3,Drama,Quentin Tarantino
+209144,Memento,1/19/2001,113,USA,R,39970386,1098879,8.2,Mystery,Christopher Nolan
+910970,WALL·E,10/17/2008,98,USA,G,521311860,974734,8.2,Animation,Andrew Stanton
+81505,The Shining,12/22/1980,146,UK,R,46520613,869480,8.2,Drama,Stanley Kubrick
+82971,Raiders of the Lost Ark,6/12/1981,115,USA,PG,390133212,865510,8.2,Action,Steven Spielberg
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Action,Anthony Russo
+78748,Alien,10/25/1979,117,UK,R,108110316,768874,8.2,Horror,Ridley Scott
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Action,Anthony Russo
+78788,Apocalypse Now,12/18/1979,147,USA,R,91968688,591251,8.2,Drama,Francis Ford Coppola
+364569,Oldeuboi,5/6/2005,120,South Korea,R,15002116,501082,8.1,Action,Chan-wook Park
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4/3/1964,95,UK,PG,9443876,441115,8.1,Comedy,Stanley Kubrick
+47396,Rear Window,4/14/1955,112,USA,Not Rated,37032034,432390,8.1,Mystery,Alfred Hitchcock
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Animation,Lee Unkrich
+405094,Das Leben der Anderen,4/6/2007,137,Germany,R,77356942,349642,8.1,Drama,Florian Henckel von Donnersmarck
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Animation,Bob Persichetti
+1187043,3 Idiots,12/25/2009,170,India,Not Rated,60262836,332217,8.1,Comedy,Rajkumar Hirani
+119698,Mononoke-hime,5/19/2000,134,Japan,PG-13,169785629,331045,8,Animation,Hayao Miyazaki
+87843,Once Upon a Time in America,9/28/1984,229,USA,R,5472914,302317,8,Crime,Sergio Leone
+32553,The Great Dictator,6/25/1945,125,USA,Not Rated,969879,197381,8,Comedy,Charles Chaplin
+43014,Sunset Blvd.,3/6/1951,110,USA,Not Rated,299645,195789,8,Drama,Billy Wilder
+361748,Inglourious Basterds,10/2/2009,153,Germany,R,321455689,1229958,8,Adventure,Quentin Tarantino
+169547,American Beauty,1/21/2000,122,USA,R,356296601,1049009,8,Drama,Sam Mendes
+112573,Braveheart,12/1/1995,178,USA,R,213216216,941683,7.9,Biography,Mel Gibson
+86190,Star Wars: Episode VI - Return of the Jedi,10/21/1983,131,USA,PG,475347111,928036,7.9,Action,Richard Marquand
+105236,Reservoir Dogs,10/9/1992,99,USA,R,2889963,896551,7.9,Crime,Quentin Tarantino
+338013,Eternal Sunshine of the Spotless Mind,10/22/2004,108,USA,R,74036715,889875,7.9,Drama,Michel Gondry
+114709,Toy Story,3/22/1996,81,USA,G,404265438,864461,7.9,Animation,John Lasseter
+119217,Good Will Hunting,3/6/1998,126,USA,R,225933435,837379,7.8,Drama,Gus Van Sant
+208092,Snatch,3/16/2001,104,UK,R,83557872,766589,7.8,Comedy,Guy Ritchie
+180093,Requiem for a Dream,12/15/2000,102,USA,R,7390108,748291,7.8,Drama,Darren Aronofsky
+66921,A Clockwork Orange,9/7/1972,136,UK,Not Rated,26903440,740301,7.8,Crime,Stanley Kubrick
+435761,Toy Story 3,7/7/2010,103,USA,G,1066969703,739717,7.8,Animation,Lee Unkrich
+86250,Scarface,12/9/1983,170,USA,R,66023585,721343,7.8,Crime,Brian De Palma
+75314,Taxi Driver,12/24/1976,114,USA,R,28441292,703264,7.7,Crime,Martin Scorsese
+211915,Le fabuleux destin d'Amélie Poulain,1/25/2002,122,France,R,173924742,690480,7.7,Comedy,Jean-Pierre Jeunet
+93058,Full Metal Jacket,10/9/1987,116,UK,Not Rated,46357676,658175,7.7,Drama,Stanley Kubrick
+90605,Aliens,9/24/1986,137,USA,R,131384634,639500,7.7,Action,James Cameron
+62622,2001: A Space Odyssey,12/12/1968,149,UK,G,68989547,587866,7.6,Adventure,Stanley Kubrick
+33467,Citizen Kane,11/25/1948,119,USA,Not Rated,1594107,389322,7.6,Drama,Orson Welles
+8579674,1917,1/23/2020,119,USA,Not Rated,384857224,362897,7.6,Drama,Sam Mendes
+86879,Amadeus,2/15/1985,160,USA,R,52066791,361028,7.6,Biography,Milos Forman
+52357,Vertigo,11/18/1958,128,USA,Not Rated,7796389,352786,7.5,Mystery,Alfred Hitchcock
+53125,North by Northwest,10/28/1959,136,USA,Not Rated,73446,291628,7.5,Adventure,Alfred Hitchcock
+2106476,Jagten,11/22/2012,115,Denmark,R,15843274,269616,7.5,Drama,Thomas Vinterberg
+56172,Lawrence of Arabia,10/29/1963,228,UK,PG,45710874,261504,7.5,Adventure,David Lean
+70735,The Sting,3/21/1974,129,USA,PG,156000000,236285,7.5,Comedy,George Roy Hill
+82096,Das Boot,3/18/1982,149,West Germany,R,11487676,226427,7.5,Adventure,Wolfgang Petersen
+59578,Per qualche dollaro in più,12/20/1965,132,Italy,Not Rated,15000000,226039,7.4,Western,Sergio Leone
+1832382,Jodaeiye Nader az Simin,10/21/2011,123,Iran,PG-13,22926076,214165,7.4,Drama,Asghar Farhadi
+45152,Singin' in the Rain,2/5/1953,103,USA,Not Rated,1864182,213152,7.4,Comedy,Stanley Donen
+68646,The Godfather,9/21/1972,175,USA,R,246120974,1572674,9.2,Drama,Francis Ford Coppola
+468569,The Dark Knight,7/23/2008,152,USA,PG-13,1005455211,2241615,9,Crime,Christopher Nolan
+71562,The Godfather: Part II,9/25/1975,220,USA,R,408035783,1098714,9,Drama,Francis Ford Coppola
+110912,Pulp Fiction,10/28/1994,,USA,R,222831817,1780147,8.9,Drama,Quentin Tarantino
+167260,The Lord of the Rings: The Return of the King,2/22/2004,201,New Zealand,PG-13,1142271098,1604280,8.9,Adventure,Peter Jackson
+108052,Schindler's List,3/11/1994,,USA,R,322287794,1183248,8.9,Drama,Steven Spielberg
+50083,12 Angry Men,9/4/1957,96,USA,Not Rated,576,668473,8.9,Drama,Sidney Lumet
+1375666,Inception,9/24/2010,148,USA,PG-13,869784991,2002816,8.8,Adventure,Christopher Nolan
+109830,Forrest Gump,10/6/1994,142,USA,PG-13,678229452,1755490,8.8,Romance,Robert Zemeckis
+120737,The Lord of the Rings: The Fellowship of the Ring,1/18/2002,178,New Zealand,PG-13,887934303,1619920,8.8,Adventure,Peter Jackson
+133093,The Matrix,5/7/1999,,USA,R,465718588,1632315,8.7,Sci-Fi,Lana Wachowski
+167261,The Lord of the Rings: The Two Towers,1/16/2003,179,New Zealand,PG-13,951227416,1449778,8.7,Adventure,Peter Jackson
+80684,Star Wars: Episode V - The Empire Strikes Back,9/19/1980,,USA,PG,549265501,1132073,8.7,Adventure,Irvin Kershner
+99685,Goodfellas,9/20/1990,146,USA,R,46879633,991505,8.7,Crime,Martin Scorsese
+816692,Interstellar,11/6/2014,169,USA,PG-13,696742056,1449256,8.6,Drama,Christopher Nolan
+114369,Se7en,12/15/1995,127,USA,R,327333559,1402015,8.6,Drama,David Fincher
+102926,The Silence of the Lambs,3/5/1991,118,USA,R,272753884,1234134,8.6,Drama,Jonathan Demme
+76759,Star Wars,10/20/1977,121,USA,PG,775768912,1204107,8.6,Adventure,George Lucas
+120815,Saving Private Ryan,10/30/1998,169,USA,R,482349603,1203825,8.6,War,Steven Spielberg
+120689,The Green Mile,10/3/2000,189,USA,R,286801374,1112336,8.6,Drama,Frank Darabont
+317248,Cidade de Deus,5/9/2003,130,Brazil,R,30680793,685856,8.6,Drama,Fernando Meirelles
+245429,Sen to Chihiro no kamikakushi,4/18/2003,125,Japan,PG,355467056,626693,8.6,Adventure,Hayao Miyazaki
+118799,La vita B9 bella,12/20/1997,116,Italy,Not Rated,230098753,605648,8.6,Drama,Roberto Benigni
+6751668,Gisaengchung,11/7/2019,132,South Korea,Not Rated,257604912,470931,8.6,Drama,Bong Joon Ho
+38650,It's a Wonderful Life,3/11/1948,130,USA,PG,6130720,388310,8.6,Family,Frank Capra
+47478,Shichinin no samurai,8/19/1955,207,Japan,Not Rated,322773,307958,8.6,Adventure,Akira Kurosawa
+172495,Gladiator,5/19/2000,155,USA,R,465361176,1308193,8.5,Adventure,Ridley Scott
+407887,The Departed,10/27/2006,151,USA,R,291465034,1159703,8.5,Drama,Martin Scorsese
+482571,The Prestige,12/22/2006,130,UK,PG-13,109676311,1155723,8.5,Mystery,Christopher Nolan
+88763,Back to the Future,10/18/1985,116,USA,PG,388774684,1027330,8.5,Comedy,Robert Zemeckis
+110413,Léon,4/7/1995,110,France,Not Rated,19552639,1007598,8.5,Crime,Luc Besson
+103064,Terminator 2: Judgment Day,12/19/1991,137,USA,R,520884847,974970,8.4,Sci-Fi,James Cameron
+114814,The Usual Suspects,11/30/1995,106,USA,R,23341568,968947,8.4,Mystery,Bryan Singer
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Adventure,Roger Allers
+7286456,Joker,10/3/2019,122,USA,Not Rated,1074251311,855097,8.4,Drama,Todd Phillips
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Comedy,Olivier Nakache
+253474,The Pianist,10/25/2002,150,UK,R,120072577,707942,8.4,Drama,Roman Polanski
+2582802,Whiplash,2/12/2015,106,USA,R,48983260,690732,8.4,Music,Damien Chazelle
+54215,Psycho,10/28/1960,109,USA,R,32008644,586765,8.3,Mystery,Alfred Hitchcock
+34583,Casablanca,11/21/1946,102,USA,PG,4374761,509953,8.3,Romance,Michael Curtiz
+95327,Hotaru no haka,10/11/2015,89,Japan,Not Rated,516962,225438,8.3,Drama,Isao Takahata
+27977,Modern Times,3/12/1937,87,USA,G,457688,211250,8.3,Drama,Charles Chaplin
+1345836,The Dark Knight Rises,8/29/2012,164,UK,PG-13,1081133191,1480582,8.3,Adventure,Christopher Nolan
+1853728,Django Unchained,1/17/2013,165,USA,R,425368238,1317856,8.3,Western,Quentin Tarantino
+209144,Memento,1/19/2001,113,USA,R,39970386,1098879,8.2,Thriller,Christopher Nolan
+910970,WALL·E,10/17/2008,98,USA,G,521311860,974734,8.2,Adventure,Andrew Stanton
+81505,The Shining,12/22/1980,146,UK,R,46520613,869480,8.2,Horror,Stanley Kubrick
+82971,Raiders of the Lost Ark,6/12/1981,115,USA,PG,390133212,865510,8.2,Adventure,Steven Spielberg
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Adventure,Anthony Russo
+78748,Alien,10/25/1979,117,UK,R,108110316,768874,8.2,Sci-Fi,Ridley Scott
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Adventure,Anthony Russo
+78788,Apocalypse Now,12/18/1979,147,USA,R,91968688,591251,8.2,Mystery,Francis Ford Coppola
+364569,Oldeuboi,5/6/2005,120,South Korea,R,15002116,501082,8.1,Drama,Chan-wook Park
+47396,Rear Window,4/14/1955,112,USA,Not Rated,37032034,432390,8.1,Thriller,Alfred Hitchcock
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Adventure,Lee Unkrich
+405094,Das Leben der Anderen,4/6/2007,137,Germany,R,77356942,349642,8.1,Mystery,Florian Henckel von Donnersmarck
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Action,Bob Persichetti
+1187043,3 Idiots,12/25/2009,170,India,Not Rated,60262836,332217,8.1,Drama,Rajkumar Hirani
+119698,Mononoke-hime,5/19/2000,134,Japan,PG-13,169785629,331045,8,Adventure,Hayao Miyazaki
+87843,Once Upon a Time in America,9/28/1984,229,USA,R,5472914,302317,8,Drama,Sergio Leone
+32553,The Great Dictator,6/25/1945,125,USA,Not Rated,969879,197381,8,Drama,Charles Chaplin
+43014,Sunset Blvd.,3/6/1951,110,USA,Not Rated,299645,195789,8,Film-Noir,Billy Wilder
+361748,Inglourious Basterds,10/2/2009,153,Germany,R,321455689,1229958,8,Drama,Quentin Tarantino
+112573,Braveheart,12/1/1995,178,USA,R,213216216,941683,7.9,Drama,Mel Gibson
+86190,Star Wars: Episode VI - Return of the Jedi,10/21/1983,131,USA,PG,475347111,928036,7.9,Adventure,Richard Marquand
+105236,Reservoir Dogs,10/9/1992,99,USA,R,2889963,896551,7.9,Drama,Quentin Tarantino
+338013,Eternal Sunshine of the Spotless Mind,10/22/2004,108,USA,R,74036715,889875,7.9,Romance,Michel Gondry
+114709,Toy Story,3/22/1996,81,USA,G,404265438,864461,7.9,Adventure,John Lasseter
+119217,Good Will Hunting,3/6/1998,126,USA,R,225933435,837379,7.8,Romance,Gus Van Sant
+208092,Snatch,3/16/2001,104,UK,R,83557872,766589,7.8,Crime,Guy Ritchie
+66921,A Clockwork Orange,9/7/1972,136,UK,Not Rated,26903440,740301,7.8,Drama,Stanley Kubrick
+435761,Toy Story 3,7/7/2010,103,USA,G,1066969703,739717,7.8,Adventure,Lee Unkrich
+86250,Scarface,12/9/1983,170,USA,R,66023585,721343,7.8,Drama,Brian De Palma
+75314,Taxi Driver,12/24/1976,114,USA,R,28441292,703264,7.7,Drama,Martin Scorsese
+211915,Le fabuleux destin d'Amélie Poulain,1/25/2002,122,France,R,173924742,690480,7.7,Romance,Jean-Pierre Jeunet
+93058,Full Metal Jacket,10/9/1987,116,UK,Not Rated,46357676,658175,7.7,War,Stanley Kubrick
+90605,Aliens,9/24/1986,137,USA,R,131384634,639500,7.7,Adventure,James Cameron
+62622,2001: A Space Odyssey,12/12/1968,149,UK,G,68989547,587866,7.6,Sci-Fi,Stanley Kubrick
+33467,Citizen Kane,11/25/1948,119,USA,Not Rated,1594107,389322,7.6,Mystery,Orson Welles
+8579674,1917,1/23/2020,119,USA,Not Rated,384857224,362897,7.6,War,Sam Mendes
+86879,Amadeus,2/15/1985,160,USA,R,52066791,361028,7.6,Drama,Milos Forman
+52357,Vertigo,11/18/1958,128,USA,Not Rated,7796389,352786,7.5,Romance,Alfred Hitchcock
+53125,North by Northwest,10/28/1959,136,USA,Not Rated,73446,291628,7.5,Mystery,Alfred Hitchcock
+56172,Lawrence of Arabia,10/29/1963,228,UK,PG,45710874,261504,7.5,Biography,David Lean
+70735,The Sting,3/21/1974,129,USA,PG,156000000,236285,7.5,Crime,George Roy Hill
+82096,Das Boot,3/18/1982,149,West Germany,R,11487676,226427,7.5,Drama,Wolfgang Petersen
+45152,Singin' in the Rain,2/5/1953,103,USA,Not Rated,1864182,213152,7.4,Musical,Stanley Donen
+468569,The Dark Knight,7/23/2008,152,USA,PG-13,1005455211,2241615,9,Drama,Christopher Nolan
+167260,The Lord of the Rings: The Return of the King,2/22/2004,201,New Zealand,PG-13,1142271098,1604280,8.9,Drama,Peter Jackson
+108052,Schindler's List,3/11/1994,,USA,R,322287794,1183248,8.9,History,Steven Spielberg
+1375666,Inception,9/24/2010,148,USA,PG-13,869784991,2002816,8.8,Sci-Fi,Christopher Nolan
+120737,The Lord of the Rings: The Fellowship of the Ring,1/18/2002,178,New Zealand,PG-13,887934303,1619920,8.8,Drama,Peter Jackson
+167261,The Lord of the Rings: The Two Towers,1/16/2003,179,New Zealand,PG-13,951227416,1449778,8.7,Drama,Peter Jackson
+80684,Star Wars: Episode V - The Empire Strikes Back,9/19/1980,,USA,PG,549265501,1132073,8.7,Fantasy,Irvin Kershner
+99685,Goodfellas,9/20/1990,146,USA,R,46879633,991505,8.7,Drama,Martin Scorsese
+816692,Interstellar,11/6/2014,169,USA,PG-13,696742056,1449256,8.6,Sci-Fi,Christopher Nolan
+114369,Se7en,12/15/1995,127,USA,R,327333559,1402015,8.6,Mystery,David Fincher
+102926,The Silence of the Lambs,3/5/1991,118,USA,R,272753884,1234134,8.6,Thriller,Jonathan Demme
+76759,Star Wars,10/20/1977,121,USA,PG,775768912,1204107,8.6,Fantasy,George Lucas
+120689,The Green Mile,10/3/2000,189,USA,R,286801374,1112336,8.6,Fantasy,Frank Darabont
+245429,Sen to Chihiro no kamikakushi,4/18/2003,125,Japan,PG,355467056,626693,8.6,Family,Hayao Miyazaki
+118799,La vita B9 bella,12/20/1997,116,Italy,Not Rated,230098753,605648,8.6,Romance,Roberto Benigni
+6751668,Gisaengchung,11/7/2019,132,South Korea,Not Rated,257604912,470931,8.6,Thriller,Bong Joon Ho
+38650,It's a Wonderful Life,3/11/1948,130,USA,PG,6130720,388310,8.6,Fantasy,Frank Capra
+47478,Shichinin no samurai,8/19/1955,207,Japan,Not Rated,322773,307958,8.6,Drama,Akira Kurosawa
+172495,Gladiator,5/19/2000,155,USA,R,465361176,1308193,8.5,Drama,Ridley Scott
+407887,The Departed,10/27/2006,151,USA,R,291465034,1159703,8.5,Thriller,Martin Scorsese
+482571,The Prestige,12/22/2006,130,UK,PG-13,109676311,1155723,8.5,Sci-Fi,Christopher Nolan
+88763,Back to the Future,10/18/1985,116,USA,PG,388774684,1027330,8.5,Sci-Fi,Robert Zemeckis
+110413,Léon,4/7/1995,110,France,Not Rated,19552639,1007598,8.5,Drama,Luc Besson
+114814,The Usual Suspects,11/30/1995,106,USA,R,23341568,968947,8.4,Thriller,Bryan Singer
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Drama,Roger Allers
+7286456,Joker,10/3/2019,122,USA,Not Rated,1074251311,855097,8.4,Thriller,Todd Phillips
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Drama,Olivier Nakache
+253474,The Pianist,10/25/2002,150,UK,R,120072577,707942,8.4,Music,Roman Polanski
+54215,Psycho,10/28/1960,109,USA,R,32008644,586765,8.3,Thriller,Alfred Hitchcock
+34583,Casablanca,11/21/1946,102,USA,PG,4374761,509953,8.3,War,Michael Curtiz
+95327,Hotaru no haka,10/11/2015,89,Japan,Not Rated,516962,225438,8.3,War,Isao Takahata
+27977,Modern Times,3/12/1937,87,USA,G,457688,211250,8.3,Family,Charles Chaplin
+910970,WALL·E,10/17/2008,98,USA,G,521311860,974734,8.2,Family,Andrew Stanton
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Sci-Fi,Anthony Russo
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Drama,Anthony Russo
+78788,Apocalypse Now,12/18/1979,147,USA,R,91968688,591251,8.2,War,Francis Ford Coppola
+364569,Oldeuboi,5/6/2005,120,South Korea,R,15002116,501082,8.1,Mystery,Chan-wook Park
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Family,Lee Unkrich
+405094,Das Leben der Anderen,4/6/2007,137,Germany,R,77356942,349642,8.1,Thriller,Florian Henckel von Donnersmarck
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Adventure,Bob Persichetti
+119698,Mononoke-hime,5/19/2000,134,Japan,PG-13,169785629,331045,8,Fantasy,Hayao Miyazaki
+32553,The Great Dictator,6/25/1945,125,USA,Not Rated,969879,197381,8,War,Charles Chaplin
+361748,Inglourious Basterds,10/2/2009,153,Germany,R,321455689,1229958,8,War,Quentin Tarantino
+112573,Braveheart,12/1/1995,178,USA,R,213216216,941683,7.9,History,Mel Gibson
+86190,Star Wars: Episode VI - Return of the Jedi,10/21/1983,131,USA,PG,475347111,928036,7.9,Fantasy,Richard Marquand
+105236,Reservoir Dogs,10/9/1992,99,USA,R,2889963,896551,7.9,Thriller,Quentin Tarantino
+338013,Eternal Sunshine of the Spotless Mind,10/22/2004,108,USA,R,74036715,889875,7.9,Sci-Fi,Michel Gondry
+114709,Toy Story,3/22/1996,81,USA,G,404265438,864461,7.9,Comedy,John Lasseter
+66921,A Clockwork Orange,9/7/1972,136,UK,Not Rated,26903440,740301,7.8,Sci-Fi,Stanley Kubrick
+435761,Toy Story 3,7/7/2010,103,USA,G,1066969703,739717,7.8,Comedy,Lee Unkrich
+90605,Aliens,9/24/1986,137,USA,R,131384634,639500,7.7,Sci-Fi,James Cameron
+86879,Amadeus,2/15/1985,160,USA,R,52066791,361028,7.6,History,Milos Forman
+52357,Vertigo,11/18/1958,128,USA,Not Rated,7796389,352786,7.5,Thriller,Alfred Hitchcock
+53125,North by Northwest,10/28/1959,136,USA,Not Rated,73446,291628,7.5,Thriller,Alfred Hitchcock
+56172,Lawrence of Arabia,10/29/1963,228,UK,PG,45710874,261504,7.5,Drama,David Lean
+70735,The Sting,3/21/1974,129,USA,PG,156000000,236285,7.5,Drama,George Roy Hill
+82096,Das Boot,3/18/1982,149,West Germany,R,11487676,226427,7.5,Thriller,Wolfgang Petersen
+45152,Singin' in the Rain,2/5/1953,103,USA,Not Rated,1864182,213152,7.4,Romance,Stanley Donen
+133093,The Matrix,5/7/1999,,USA,R,465718588,1632315,8.7,Action,Lilly Wachowski
+317248,Cidade de Deus,5/9/2003,130,Brazil,R,30680793,685856,8.6,Crime,Kátia Lund
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Animation,Rob Minkoff
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Biography,Éric Toledano
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Action,Joe Russo
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Action,Joe Russo
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Animation,Adrian Molina
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Animation,Peter Ramsey
+133093,The Matrix,5/7/1999,,USA,R,465718588,1632315,8.7,Sci-Fi,Lilly Wachowski
+317248,Cidade de Deus,5/9/2003,130,Brazil,R,30680793,685856,8.6,Drama,Kátia Lund
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Adventure,Rob Minkoff
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Comedy,Éric Toledano
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Adventure,Joe Russo
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Adventure,Joe Russo
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Adventure,Adrian Molina
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Action,Peter Ramsey
+110357,The Lion King,11/25/1994,88,USA,G,968511805,917248,8.4,Drama,Rob Minkoff
+1675434,Intouchables,2/24/2012,112,France,Not Rated,426588510,736691,8.4,Drama,Éric Toledano
+4154756,Avengers: Infinity War,4/25/2018,149,USA,Not Rated,2048359754,796486,8.2,Sci-Fi,Joe Russo
+4154796,Avengers: Endgame,4/24/2019,181,USA,Not Rated,,754786,8.2,Drama,Joe Russo
+2380307,Coco,12/28/2017,105,USA,Not Rated,807083670,352455,8.1,Family,Adrian Molina
+4633694,Spider-Man: Into the Spider-Verse,12/25/2018,117,USA,Not Rated,375540831,335892,8.1,Adventure,Peter Ramsey
